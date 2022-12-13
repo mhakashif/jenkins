@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo 'myfirstjob Welcome1!' 
+                echo 'myfirstjob Welcome0!' 
             }
         }
     }
